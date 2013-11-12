@@ -67,7 +67,7 @@ Student's code (with comments and point adjustments)
  * way to solve a problem.  You will want to change how a number of these start.
  *)
 
-open Mp1common
+(*open Mp1common*)
 
 (* Problem 1 *)
 let e = 2.71828;;  (* float *)
