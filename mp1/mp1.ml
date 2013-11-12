@@ -1,4 +1,4 @@
-mp1 grade report for 
+(**mp1 grade report for 
 ================================
 
 Latest handin (graded copy) was - on_time
@@ -58,7 +58,7 @@ Additional outout from compiling students code (may be empty)
 
 Student's code (with comments and point adjustments)
 ----------------------------------------------------
-
+**)
 
 (* CS421 - Summer 2013
  * MP1 
@@ -105,7 +105,7 @@ let first_two (x,y,z) = (x, y);;
 let app_triple f (x,y,z) = (f x, f y, f z);;
 
 
-
+(**
 Stdout
 ----------------------------------------------------
 
@@ -115,4 +115,4 @@ Ah, I know you.
 Ah, I know you.
 Your name is , you say? Welcome to CS 421.
 Your name is , you say? Welcome to CS 421.
-
+**)
